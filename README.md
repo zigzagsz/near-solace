@@ -1,7 +1,6 @@
 ## <p align=center> _Solace Protocol_ for NEAR </p>
 
-![image](https://user-images.githubusercontent.com/103751566/181745625-12b68f87-e20e-4b85-b081-f774e66e8d2d.png)
-
+<img width="1069" alt="image" src="https://user-images.githubusercontent.com/103751566/181745850-f809fe23-831b-4b12-8e15-1acae55dbd1a.png">
 
 Solace is a smart-contract based non-custodial wallet for Near which eases user's onboarding and enhances security using social recovery, written in Rust.
 
